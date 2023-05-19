@@ -45,9 +45,9 @@
 ```sh
 mvn clean package
 ```
-2) Copy the resulting *springboot-war-helloworld.war* file to the *<CATALINA_HOME>/webapps* directory of your Tomcat server.
+2) Copy the resulting *springboot-war-helloworld.war* file to the *webapps* directory of your Tomcat server.
 
-3) Start the Tomcat server. You can start Tomcat by running the startup.sh script (for Unix) or startup.bat script (for Windows) in the *<CATALINA_HOME>/bin* directory.
+3) Start the Tomcat server by executing the appropriate startup script for your operating system. For example, run startup.sh (for Unix) or startup.bat (for Windows).
 
 4) After Tomcat starts successfully, your application will be accessible at http://localhost:8080/springboot-war-helloworld/hello.
 
