@@ -4,12 +4,14 @@
     </a>
 </div> 
 
-# War HelloWorld on Spring Boot
+# Spring Boot WAR HelloWorld with monitoring on Prometheus
 
 
 ## Feature tags
 
+- actuator
 - maven
+- prometheus
 - spring-boot
 - starter
 - template
@@ -19,7 +21,7 @@
 
 ## Direct ancestor
 
-[- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
+[- actuator,prometheus,war](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
 
 ---
 
