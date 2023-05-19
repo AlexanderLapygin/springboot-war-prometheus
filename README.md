@@ -21,7 +21,7 @@
 
 ## Direct ancestor
 
-[- actuator,prometheus,war](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
+[- actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
 
 ---
 
