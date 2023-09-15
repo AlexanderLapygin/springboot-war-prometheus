@@ -25,6 +25,10 @@ UNDER DEVELOPMENT
 
 [- actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
 
+## Direct descendant
+
+[+ gelf, logback](https://github.com/AlexanderLapygin/springboot-war-prometheus-gelf-logback/tree/main#readme)
+
 ---
 
 ## Author
